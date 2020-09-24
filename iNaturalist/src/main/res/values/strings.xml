@@ -973,5 +973,13 @@
     <string name="filter_observations_by_months">Filter observations by months</string>
     <!-- Used to demonstrate annotation filters, e.g. Life Stage = Egg -->
     <string name="equals_sign">=</string>
+    <!--
+        Label for a button to return to a previous view, primarily for screen readers. For example,
+        in English, Google TalkBack will pronounce this as "back button"
+    -->
+    <string name="go_back">Back</string>
+    <!-- Screen reader label for a checkbox that is not checked -->
+    <string name="checkbox_checked">checked checkbox</string>
+    <!-- Screen reader label for a checkbox that is not checked -->
+    <string name="checkbox_blank">blank checkbox</string>
 </resources>
-
